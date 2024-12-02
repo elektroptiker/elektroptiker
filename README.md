@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# Here are some links:
+### Here are some links:
 - [ElektrOptier Website:](https://elektroptiker.github.io/index.html)
-- [HB9HDG Ham Radio:](http://hb9gl.ch)
+- [HB9HDG Ham Radio:](http://hb9hdg.ch)
 - [My Business:](https://gallati.com/)
 
 <!--

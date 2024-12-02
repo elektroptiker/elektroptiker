@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[Website:](https://elektroptiker.github.io/index.html)
+# Here are some links:
+- [ElektrOptier Website:](https://elektroptiker.github.io/index.html)
+- [HB9HDG Ham Radio:](http://hb9gl.ch)
+- [My Business:](https://gallati.com/)
 
 <!--
 **elektroptiker/elektroptiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

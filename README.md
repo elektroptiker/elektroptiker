@@ -1,8 +1,14 @@
-## Hi there 👋
+## Welcome to my github space 👋
+
+I'm working full time as an Optometrist and Hearing Aids fitter in my own business in the beautiful [Canton of Glarus ](https://www.gl.ch) in Switzerland.
+
+- 🔭 I’m currently working on my github website
+- 🌱 I’m currently learning HTML and CSS
 
 ### Here are some links:
 - [ElektrOptiker Website (work in progress):](https://elektroptiker.github.io/index.html)
 - [HB9HDG Ham Radio:](http://hb9hdg.ch)
+- [Live weather @home:](https://www.wunderground.com/dashboard/pws/INETST1)
 - [My Business:](https://gallati.com/)
 
 <!--
